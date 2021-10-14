@@ -1,0 +1,16 @@
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.exe
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.deps.json
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.runtimeconfig.json
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.runtimeconfig.dev.json
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.dll
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\ref\MulticastDelegate.dll
+C:\Users\dai16\visualStudio\MulticastDelegate\bin\Debug\net5.0\MulticastDelegate.pdb
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.csproj.AssemblyReference.cache
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.AssemblyInfoInputs.cache
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.AssemblyInfo.cs
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.dll
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\ref\MulticastDelegate.dll
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.pdb
+C:\Users\dai16\visualStudio\MulticastDelegate\obj\Debug\net5.0\MulticastDelegate.genruntimeconfig.cache
